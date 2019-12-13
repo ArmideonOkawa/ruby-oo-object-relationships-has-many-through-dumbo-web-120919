@@ -11,7 +11,7 @@
 
 We've seen how objects can be related to one another directly when one object
 contains a reference to another. This is the "has-many"/"belongs-to"
-association, and is a direct relationship. For example, an artist may have many
+association, and is a direct relationship. For example, an artist may have many 
 songs or a book might have many reviews.
 
 In addition to these one-to-one and one-to-many relationships, some
